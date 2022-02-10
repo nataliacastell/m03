@@ -1,3 +1,5 @@
+package array_ncastell.exercici_elevat;
+
 import java.util.Scanner;
 //Guardar 7 números en un vector 
 //elevar-los al quadrat i guardar el resultat en un altre vector. 

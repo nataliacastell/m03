@@ -1,10 +1,12 @@
+package array_ncastell;
+
 import java.util.Scanner;
 //Escriu un programa que llegeixi una seqüència no buida de nombres enters i indiqui quants d'ells són iguals a l'últim.
 //Entrada
 //L'entrada consisteix en un nombre natural n> 0, seguit de n nombres enters.
 //Sortida
 //Imprimeix el nombre d'elements que són iguals al darrer, exclòs aquest.
-public class Main{
+public class jutje_1_1{
     public static void main(String[] args){
       Scanner entrada = new Scanner(System.in);
       int numero_vegades= 0;

@@ -1,6 +1,8 @@
+package array_ncastell.calse26gener;
+
 import java.util.Scanner;
 
-public class Main{
+public class pas4{
     public static void main(String[] args){
         Scanner teclat = new Scanner(System.in);
         int num_pilots = teclat.nextInt();

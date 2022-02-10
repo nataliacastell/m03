@@ -1,3 +1,5 @@
+package array_ncastell.calse26gener;
+
 import java.util.Scanner;
 //Escriu un programa que llegeixi una seqüència no buida de nombres enters i indiqui quants d'ells són iguals a l'últim.
 //Entrada

@@ -1,3 +1,5 @@
+package array_ncastell.examen8_febrer_Ncastell;
+
 import java.util.Scanner;
 //Utilitza un array per guardar les temperatures diàries de dues setmanes. 
 //Calcular el valor mig dels valors guardats i imprimir-lo. 
