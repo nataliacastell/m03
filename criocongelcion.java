@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
-  Scanner entrada = new Scanner (System.in);
+  try (Scanner entrada = new Scanner (System.in)) {
     int casos = entrada.nextInt();
     int v = 0;
     int acumulador = 0;
@@ -14,6 +14,7 @@ class Main {
       v++;
   }
   System.out.println(acumulador);
+  }
 
 }
 }
